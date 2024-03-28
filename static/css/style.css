@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #000502;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #0ead5e;
+    padding: 1rem;
+    font-family: 'Calibri', sans-serif
+}
+
+header h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 36px
+}
+header h2 {
+    color: #fff;
+    text-align: center;
+    font-size: 48px
+}
+main {
+    padding: 2rem;
+    font-family: 'Calibri', sans-serif;
+    font-size: 24px
+}
+
+section {
+    margin-bottom: 2rem;
+    font-family: 'Calibri', sans-serif;
+    font-size: 24px
+}
+
+section h3 {
+    color: #0ead5e;
+    margin-bottom: 1rem;
+    font-family: 'Calibri', sans-serif;
+    font-size: 24px
+}
+footer {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    text-align: center;
+    font-family: 'Calibri', sans-serif;
+}
